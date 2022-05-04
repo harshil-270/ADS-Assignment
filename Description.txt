@@ -10,3 +10,5 @@ Steps to run the code:
 - Open "index.html" file in the browser (Chrome browser preferable).
 
 Github Link: https://github.com/harshil-270/ADS-Assignment
+
+Hosted live site link: https://harshil-270.github.io/ADS-Assignment/
