@@ -1,0 +1,12 @@
+Title: Algorithm Visualizer
+
+Description:
+1. Trie Data Structure Visualization (Insert, Delete)
+2. Binary Search Tree Visualization (Insert, Delete)
+3. Path Finding ALgorithms Visualization (Dijkstra, A* Search, DFS, BFS)
+
+
+Steps to run the code:
+- Open "index.html" file in the browser (Chrome browser preferable).
+
+Github Link: https://github.com/harshil-270/ADS-Assignment
